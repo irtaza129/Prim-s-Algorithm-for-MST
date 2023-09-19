@@ -1,0 +1,19 @@
+Welcome to the MST Test Program
+Testing Default Scenario
+Testing File Data
+Full Graph – Adjacency List:
+Adj[0] -> (1,4) (2,3) 
+Adj[1] -> (0,4) (3,2) (2,1) 
+Adj[2] -> (3,4) (0,3) (1,1) 
+Adj[3] -> (2,4) (1,2) (4,2) 
+Adj[4] -> (5,6) (3,2) 
+Adj[5] -> (4,6) 
+
+Results for CIS-Land2.dat:
+Edge: 2 - 1 weight: 1
+Edge: 0 - 2 weight: 3
+Edge: 1 - 3 weight: 2
+Edge: 3 - 4 weight: 2
+Edge: 4 - 5 weight: 6
+Total cost of MST: 14
+

@@ -1,0 +1,6 @@
+Welcome to the MST Test Program
+Testing Default Scenario
+Testing File Data
+Full Graph – Adjacency List:
+
+Results for CIS-Land4.dat:
